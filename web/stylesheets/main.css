@@ -34,3 +34,32 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
+
+
+.querybox
+{
+  border:2px groove black;
+  display: block;
+  float:right;
+}
+
+
+.Deptq
+{
+  position:relative;
+ width:100%;
+ padding: 0 0 0 0;
+}
+
+#Collegeq
+{
+  position:relative;
+  width:100%;
+  padding: 0 0 0 0;
+}
+#query_ind
+{
+  position:relative;
+  width:100%;
+  padding: 0 0 0 0;
+}
